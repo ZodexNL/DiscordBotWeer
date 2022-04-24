@@ -1,4 +1,4 @@
-#Dit negeert bestanden
+#Dit negeert bestanden. Gitignore
 
 config.json
 node_modules
