@@ -1,4 +1,4 @@
-#Dit zou als het goed is bestanden moeten negeren
+#Dit negeert bestanden
 
 config.json
 node_modules
