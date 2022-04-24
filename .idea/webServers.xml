@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc18d97f-beb0-41b6-a174-924de88777ba" name="NetherlandsBotFTP">
+        <fileTransfer rootFolder="/home/bots/testbot/netherlands_bot" accessType="SFTP" host="45.10.159.126" port="22621" sshConfigId="4816ea1a-1d3c-482c-9b6c-a11ab9a07b0c" sshConfig="bots@45.10.159.126:22621 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

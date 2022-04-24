@@ -1,0 +1,5 @@
+#Dit zou als het goed is bestanden moeten negeren
+
+config.json
+node_modules
+commands/schelden.js
