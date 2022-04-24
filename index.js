@@ -54,18 +54,7 @@ bot.on("message", async message => {
             console.error(error);
         }
     }
-    if(message.content !== prefix){
-        const command = message.content;
-        const args = command.toLowerCase();
 
-        //const schelden = "schelden";
-        try {
-            bot.commands.get("schelden.js").run(bot, message, args)
-            //bot.commands.get(schelden).run(bot, message, commandDef);
-        } catch (error){
-            console.error(error);
-        }
-    }
 })
 
 

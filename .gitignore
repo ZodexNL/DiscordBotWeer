@@ -3,3 +3,5 @@
 config.json
 node_modules
 commands/schelden.js
+package-lock.json
+.idea
